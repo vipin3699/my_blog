@@ -1,0 +1,16 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d vipin3699"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://vipin3699.github.io/my_blog",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
